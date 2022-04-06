@@ -9,8 +9,8 @@ Crash Kalkan sayesinde sizin oyununa katılan insanları engelleyebilir onları 
 ## 🔒 Sunucu kitlemek için neler yapmam gerekiyor?
 Sunucuyu kitlemek için sadece:
 
-[1] Windows Defender'ı açık tutun.
-[2] Programı yönetici olarak başlatın.
+[1] Windows Defender'ı açık tutun.<br>
+[2] Programı yönetici olarak başlatın.<br>
 [3] Herkesin CrashKalkan kullanması ve Sunucuyu Kitleme özelliğini aktifleştirmesi gerekiyor. (Tek oynayacaksanız sadece siz aktifleştirin)
 
 ## 🧐 Programın özelliklerini nasıl kullanacağım?
