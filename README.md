@@ -3,8 +3,10 @@ Crash Kalkan sayesinde sizin oyununa katılan insanları engelleyebilir onları 
 
 ![Crash Kalkan](https://i.hizliresim.com/g6jrchh.png)
 
-## İnidrmek İçin
-[GitHub üzerinden inidirmek için tıkla](https://github.com/enesonlys/CrashKalkan/releases/download/%C4%B0ndir/CrashKalkan.exe)
+## 😋 Programı yükleme ve kurma
+
+[GitHub üzerinden inidirmek için tıkla](https://github.com/enesonlys/CrashKalkan/releases/download/%C4%B0ndir/CrashKalkan.exe) <br>
+ilgili link üzerinden yükleme tamamlandığında tek yapamnız gerkeen programı başlatmaktır. Eğer Windows Defender tarafından mavi bir uyarı çıkar ise "Daha fazla" yazsına tıklayıp "Yine de çalıştır" seçeneğine tıklamalısınız. Ve sunucu kitleme özelliğnii kullanmak için programa sağ tıklayıp "Yönetici olarak çalıştır" seçeneği ile programı başlatmalısınız.
 
 ## 🔒 Sunucu kitlemek için neler yapmam gerekiyor?
 Sunucuyu kitlemek için sadece:
