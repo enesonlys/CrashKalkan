@@ -27,6 +27,9 @@ Hayır, program açık kaynak kodlu ve GitHub üzerinden yayınlandığı için 
 ## 🚀 Hilelerden korunmanın başka bir yolu var mı?
 Hayır maalesef yok, çünkü çoğu hile sizin sadece oyun kullanıcı adınızdan RockstarID'lerinizi alıp istedikleri zaman katılabiliyorlar (Solo Session dahil) ve RockstarGames bununla ilgili yıllardır bir yöntem çıkarmadı fakat geliştirici ekibimiz bunun methodunu buldu ve sizlere kolaylaştırılmış bir şekilde sunuyoruz. Bu methodu bu porgram olmadan elle de yapabilirsiniz fakat bu çok zahmetli ve zor bu yüzden size kolaylaştırılmış bir çözüm olarak bu programı çıkarttık.
 
-## 🙋 Size nasıl ulaşabilirim?
+## ⭐ Program hala çalışıyor mu? (2023)
+Gerekli testler yapıldı ve kesinlikle çalışmaya devam etmektedir.
+
+## 🙋 Size nasıl ulaşabilirim veya GTA Online oynayabileceğim oyuncuları nereden bulabilirim?
 Bize Discord sunucumuzdan ulaşabilirsiniz.
-https://gtaotr.xyz
+https://discord.gg/gtatr
